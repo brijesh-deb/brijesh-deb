@@ -6,6 +6,8 @@
 
 ### Glad to see you here! &nbsp; ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=brijesh-deb&repo=brijesh-deb&countColorcountColor)
 
+![Snake animation](https://github.com/JeroenKnoops/JeroenKnoops/blob/output/github-contribution-grid-snake.svg)
+
 **About me:**
 - 🖥️ I’m a Software Architect based out of Bangalore, India.
 - 🌱 Passionate about distributed systems, cloud and data technologies.
