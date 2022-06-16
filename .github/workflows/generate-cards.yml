@@ -11,10 +11,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Summary Cards
-      # - uses: actions/checkout@v2
-      # - uses: vn7n24fzkq/github-profile-summary-cards@release
-      #  env:
-      #  GITHUB_TOKEN: ${{ secrets.PROFILE_INFO }}
+      - uses: actions/checkout@v2
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.PROFILE_INFO }}
 
       # Snake Animation
       - uses: Platane/snk@master
