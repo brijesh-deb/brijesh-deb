@@ -9,7 +9,7 @@
 
 **About me:**
 - 🖥️ I’m a Software Architect based out of Bangalore, India.
-- 🌱 Passionate about distributed systems, cloud and data technologies.
+- 🌱 Passionate about distributed systems, cloud and data technologies. Currently engaged in building healthcare platform and products.
 - 🌱 I love reading, traveling. 
 
 **My Github Stats:**
