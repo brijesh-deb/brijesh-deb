@@ -4,8 +4,10 @@
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@brijesh_deb)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/brijeshdeb2202)
 
+<!---
 ### Glad to see you here! &nbsp; ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=brijesh-deb&repo=brijesh-deb&countColorcountColor)
 ![Snake animation](https://github.com/JeroenKnoops/JeroenKnoops/blob/output/github-contribution-grid-snake.svg)
+-->
 
 **About me:**
 - 🖥️ I’m a Software Architect based out of Bangalore, India.
